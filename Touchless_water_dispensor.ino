@@ -53,5 +53,5 @@ void loop() {
     digitalWrite(buzzer,LOW);
     delay(500);
     digitalWrite(led,LOW)
-  }-
+  }
 }
