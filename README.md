@@ -16,7 +16,7 @@ In addition, touching of the water tap by different people can spread the germs.
 
 -> Buzzer
 
--> Water pump
+-> Water pump 12V
 
 -> 1k resistor
 
@@ -59,4 +59,17 @@ Action: LED turns OFF.
 Action: Buzzer turns ON for 2 seconds to indicate completion of hand washing.
 
 
+# Circuit Diagram
+
+![WhatsApp Image 2025-06-29 at 12 25 55_956ee482](https://github.com/user-attachments/assets/f5d83c6e-bb3a-4c73-b93f-568c519afaa0)
+
+# PCB Design
+![WhatsApp Image 2025-06-29 at 12 25 54_44de09a4](https://github.com/user-attachments/assets/00bfeba8-d56e-457e-9c45-e0723f7d9d04)
+
+![WhatsApp Image 2025-06-29 at 12 28 58_ed98edb7](https://github.com/user-attachments/assets/6aebbd05-3e04-4cbc-8fd0-1fa70e0733a0)
+
+# Final Product.
+![WhatsApp Image 2025-06-29 at 12 32 38_489c36bc](https://github.com/user-attachments/assets/510582bf-b70d-4e42-9451-1e492c6f65b0)
+
+![WhatsApp Image 2025-06-29 at 12 32 38_25e55f84](https://github.com/user-attachments/assets/b64c0861-9e59-44e3-8240-f4db3412031c)
 
