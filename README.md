@@ -53,10 +53,10 @@ Duration: Water flows for 5 seconds.
 
 
 5. **Completion Alert**.
-    
-Action: LED turns OFF.
 
 Action: Buzzer turns ON for 2 seconds to indicate completion of hand washing.
+
+Action: LED turns OFF.
 
 
 # Circuit Diagram
